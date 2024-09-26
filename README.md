@@ -11,7 +11,89 @@
     <title>Tahmeed Shahriyar</title>
     <link rel="stylesheet" href="PersonalWeb.css">
 </head>
+<style>
+    
+    body{
+    font-family: "Oswald", sans-serif;
+    background-image: linear-gradient(rgb(105, 246, 235),rgb(244, 252, 255));
+   
+}
 
+
+    .section1{
+       height: 600px;
+       width: 85%;
+
+    
+       box-shadow: 10px 10px 40px gray;
+       padding: 30px 40px ;
+       margin: 100px;
+    
+       border-radius: 5px;
+    
+
+    }
+    .half-wid img{
+          height: 500px;
+}
+
+
+    .half-wid{
+   
+       width: 40%;
+       float: left;
+       margin: 30px;
+    
+       padding: 50px ;
+    
+    }
+
+    .button{
+    text-decoration: none;
+    background-image:linear-gradient(rgb(77, 252, 238),rgb(20, 222, 205)) ;
+    padding: 10px;
+    border-radius: 5px;
+    /* box-shadow: 5px 5px 40px grey; */
+    }
+
+    #myname{
+    font-size: 50px;
+    font-weight: 300;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: beige;
+    }
+
+    #exp{
+    margin-left:100px ;
+    font-family: "Fascinate Inline", system-ui;
+    }
+
+    #box1{
+    box-shadow: 10px 10px 40px gray;
+    padding: 30px 40px ;
+    margin: 50px;
+    
+    border-radius: 5px;
+    
+
+    
+    }
+    #box2{
+       box-shadow: 10px 10px 40px gray;
+       padding: 30px 40px ;
+       margin: 50px;
+    
+      border-radius: 5px;
+    
+
+    
+    }
+
+    .centerlize{
+    text-align: center;
+   }
+
+</style>
 
 <body>
     <section class="section1" >
